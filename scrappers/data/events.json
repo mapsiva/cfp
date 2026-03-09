@@ -1,0 +1,2493 @@
+{
+    "data": [
+        {
+            "id": 77,
+            "name": "SBRC 2024 - Trilha de Inova\u00e7\u00e3o e Intera\u00e7\u00e3o com a Ind\u00fastria",
+            "acronym": "SBRC_Inovacao com Industria",
+            "year": 2024,
+            "formSubmission": null,
+            "formReview": 92,
+            "eventInfo": {
+                "city": "Niter\u00f3i",
+                "state": "RJ",
+                "country": "BRA",
+                "beginAt": null,
+                "endAt": null,
+                "makePublicAt": "2023-12-20T03:00:00Z"
+            },
+            "eventParent": 59,
+            "uri": "sbrc2024_inovacaocomindustria"
+        },
+        {
+            "id": 175,
+            "name": "Chancela SBC",
+            "acronym": "ChancelaSBC",
+            "year": 2025,
+            "formSubmission": 263,
+            "formReview": 189,
+            "eventInfo": {
+                "city": "Porto Alegre",
+                "state": "RS",
+                "country": "BRA",
+                "beginAt": "2024-10-01T19:35:25Z",
+                "endAt": "2027-08-31T19:35:36Z",
+                "makePublicAt": "2024-09-30T19:36:22Z"
+            },
+            "eventParent": null,
+            "uri": "chancelasbc2025"
+        },
+        {
+            "id": 414,
+            "name": "EduComp 2026 - VI Simp\u00f3sio Brasileiro de Educa\u00e7\u00e3o em Computa\u00e7\u00e3o",
+            "acronym": "EduComp",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Campo Grande",
+                "state": "MS",
+                "country": "BRA",
+                "beginAt": "2026-05-05T02:59:00Z",
+                "endAt": "2026-05-09T02:59:00Z",
+                "makePublicAt": "2025-09-30T02:59:00Z"
+            },
+            "eventParent": null,
+            "uri": "educomp2026"
+        },
+        {
+            "id": 415,
+            "name": "EduComp2026 - Trilha 1 - Artigos de Pesquisa",
+            "acronym": "Educomp-Trilha 1",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 471,
+            "eventInfo": {
+                "city": "Campo Grande",
+                "state": "MS",
+                "country": "BRA",
+                "beginAt": "2026-05-05T02:59:00Z",
+                "endAt": "2026-05-09T02:59:00Z",
+                "makePublicAt": "2025-10-02T02:59:00Z"
+            },
+            "eventParent": 414,
+            "uri": "educomp-trilha12026"
+        },
+        {
+            "id": 416,
+            "name": "EduComp2026- Trilha 2 - Relatos de Experi\u00eancia",
+            "acronym": "Educomp-Trilha 2",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 472,
+            "eventInfo": {
+                "city": "Campo Grande",
+                "state": "MS",
+                "country": "BRA",
+                "beginAt": "2026-05-05T02:59:00Z",
+                "endAt": "2026-05-09T02:59:00Z",
+                "makePublicAt": "2025-09-08T02:59:00Z"
+            },
+            "eventParent": 414,
+            "uri": "educomp-trilha22026"
+        },
+        {
+            "id": 417,
+            "name": "EduComp2026- Trilha 3 - Curr\u00edculos",
+            "acronym": "EduComp-Trilha 3",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 468,
+            "eventInfo": {
+                "city": "Pontes e Lacerda",
+                "state": "MT",
+                "country": "BRA",
+                "beginAt": "2025-10-28T02:59:00Z",
+                "endAt": "2026-06-02T02:59:00Z",
+                "makePublicAt": "2025-08-02T02:59:00.661000Z"
+            },
+            "eventParent": 414,
+            "uri": "educomp-trilha32026"
+        },
+        {
+            "id": 418,
+            "name": "EduComp 2026 - Trilha 4 - Recursos e Ambientes Educacionais",
+            "acronym": "EduComp-Trilha 4",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 467,
+            "eventInfo": {
+                "city": "Campo Grande",
+                "state": "MS",
+                "country": "BRA",
+                "beginAt": "2026-05-05T02:59:00Z",
+                "endAt": "2026-05-09T02:59:00Z",
+                "makePublicAt": "2025-09-30T02:59:00Z"
+            },
+            "eventParent": 414,
+            "uri": "educomp-trilha42026"
+        },
+        {
+            "id": 419,
+            "name": "EduComp 2026 - Trilha 5 - Ensaios",
+            "acronym": "EduComp-Trilha 5",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 482,
+            "eventInfo": {
+                "city": "Campo Grande",
+                "state": "MS",
+                "country": "BRA",
+                "beginAt": "2026-05-05T02:59:00Z",
+                "endAt": "2026-05-09T02:59:00Z",
+                "makePublicAt": "2025-10-02T02:59:00Z"
+            },
+            "eventParent": 414,
+            "uri": "educomp-trilha52026"
+        },
+        {
+            "id": 421,
+            "name": "46\u00ba Congresso da Sociedade Brasileira de Computa\u00e7\u00e3o",
+            "acronym": "CSBC",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 485,
+            "eventInfo": {
+                "city": "Gramado",
+                "state": "RS",
+                "country": "BRA",
+                "beginAt": "2026-07-20T02:59:00Z",
+                "endAt": "2026-07-24T02:59:00Z",
+                "makePublicAt": "2025-09-17T02:59:00.796000Z"
+            },
+            "eventParent": null,
+            "uri": "csbc2026"
+        },
+        {
+            "id": 423,
+            "name": "IEEE/IFIP Network Operations and Management Symposium 2026",
+            "acronym": "NOMS",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 465,
+            "eventInfo": {
+                "city": "Rome",
+                "state": "Rome",
+                "country": "ITA",
+                "beginAt": "2026-05-18T02:59:00Z",
+                "endAt": "2026-05-22T02:59:00Z",
+                "makePublicAt": "2025-10-02T02:59:00Z"
+            },
+            "eventParent": null,
+            "uri": "noms2026"
+        },
+        {
+            "id": 427,
+            "name": "31\u00ba Congresso Internacional ABED de Educa\u00e7\u00e3o a Dist\u00e2ncia",
+            "acronym": "CIAED",
+            "year": 2026,
+            "formSubmission": 450,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Jo\u00e3o Pessoa",
+                "state": "PB",
+                "country": "BRA",
+                "beginAt": "2026-04-28T02:59:00Z",
+                "endAt": "2026-05-01T02:59:00Z",
+                "makePublicAt": "2025-10-03T02:59:00Z"
+            },
+            "eventParent": null,
+            "uri": "ciaed2026"
+        },
+        {
+            "id": 428,
+            "name": "CIAED 2026 - Trilha 1 -  Teorias e Sistemas",
+            "acronym": "CIAED2026-T1",
+            "year": 2026,
+            "formSubmission": 457,
+            "formReview": 488,
+            "eventInfo": {
+                "city": "Jo\u00e3o Pessoa",
+                "state": "PB",
+                "country": "BRA",
+                "beginAt": "2026-04-28T02:59:00Z",
+                "endAt": "2026-05-01T02:59:00Z",
+                "makePublicAt": "2025-10-03T02:59:00Z"
+            },
+            "eventParent": 427,
+            "uri": "ciaed2026-t1"
+        },
+        {
+            "id": 429,
+            "name": "CIAED 2026 - Trilha 2 - Ensino e Aprendizagem",
+            "acronym": "CIAED2026-T2",
+            "year": 2026,
+            "formSubmission": 458,
+            "formReview": 487,
+            "eventInfo": {
+                "city": "Jo\u00e3o Pessoa",
+                "state": "PB",
+                "country": "BRA",
+                "beginAt": "2026-04-28T02:59:00Z",
+                "endAt": "2026-05-01T02:59:00Z",
+                "makePublicAt": "2025-10-03T02:59:00Z"
+            },
+            "eventParent": 427,
+            "uri": "ciaed2026-t2"
+        },
+        {
+            "id": 430,
+            "name": "CIAED 2026 - Trilha 3 - Tecnologias Educacionais",
+            "acronym": "CIAED2026-T3",
+            "year": 2026,
+            "formSubmission": 459,
+            "formReview": 489,
+            "eventInfo": {
+                "city": "Jo\u00e3o Pessoa",
+                "state": "PB",
+                "country": "BRA",
+                "beginAt": "2026-04-28T02:59:00Z",
+                "endAt": "2026-05-01T02:59:00Z",
+                "makePublicAt": "2025-10-03T02:59:00Z"
+            },
+            "eventParent": 427,
+            "uri": "ciaed2026-t3"
+        },
+        {
+            "id": 431,
+            "name": "CIAED 2026 - Trilha 4 - Gest\u00e3o e Organiza\u00e7\u00e3o",
+            "acronym": "CIAED2026-T4",
+            "year": 2026,
+            "formSubmission": 460,
+            "formReview": 490,
+            "eventInfo": {
+                "city": "Jo\u00e3o Pessoa",
+                "state": "PB",
+                "country": "BRA",
+                "beginAt": "2026-04-28T02:59:00Z",
+                "endAt": "2026-05-01T02:59:00Z",
+                "makePublicAt": "2025-10-03T02:59:00Z"
+            },
+            "eventParent": 427,
+            "uri": "ciaed2026-t4"
+        },
+        {
+            "id": 432,
+            "name": "CIAED 2026 - Trilha 5 - Qualidade e Regula\u00e7\u00e3o",
+            "acronym": "CIAED2026-T5",
+            "year": 2026,
+            "formSubmission": 461,
+            "formReview": 491,
+            "eventInfo": {
+                "city": "Jo\u00e3o Pessoa",
+                "state": "PB",
+                "country": "BRA",
+                "beginAt": "2026-04-28T02:59:00Z",
+                "endAt": "2026-05-01T02:59:00Z",
+                "makePublicAt": "2025-10-03T02:59:00Z"
+            },
+            "eventParent": 427,
+            "uri": "ciaed2026-t5"
+        },
+        {
+            "id": 433,
+            "name": "CIAED 2026 - Trilha 6 - P\u00f4steres",
+            "acronym": "CIAED2026-T6",
+            "year": 2026,
+            "formSubmission": 462,
+            "formReview": 511,
+            "eventInfo": {
+                "city": "Jo\u00e3o Pessoa",
+                "state": "PB",
+                "country": "BRA",
+                "beginAt": "2026-04-28T02:59:00Z",
+                "endAt": "2026-05-01T02:59:00Z",
+                "makePublicAt": "2025-10-03T02:59:00Z"
+            },
+            "eventParent": 427,
+            "uri": "ciaed2026-t6"
+        },
+        {
+            "id": 434,
+            "name": "CIAED 2026 - Track 7 - International",
+            "acronym": "CIAED2026-T7",
+            "year": 2026,
+            "formSubmission": 463,
+            "formReview": 570,
+            "eventInfo": {
+                "city": "Jo\u00e3o Pessoa",
+                "state": "PB",
+                "country": "BRA",
+                "beginAt": "2026-04-28T02:59:00Z",
+                "endAt": "2026-05-01T02:59:00Z",
+                "makePublicAt": "2025-10-03T02:59:00Z"
+            },
+            "eventParent": 427,
+            "uri": "ciaed2026-t7"
+        },
+        {
+            "id": 435,
+            "name": "Simp\u00f3sio Brasileiro de Redes de Computadores e Sistemas Distribu\u00eddos",
+            "acronym": "SBRC",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 535,
+            "eventInfo": {
+                "city": "Praia do Forte",
+                "state": "BA",
+                "country": "BRA",
+                "beginAt": "2026-04-28T02:59:00Z",
+                "endAt": "2026-05-01T02:59:00Z",
+                "makePublicAt": "2025-10-03T02:59:00Z"
+            },
+            "eventParent": null,
+            "uri": "sbrc2026"
+        },
+        {
+            "id": 436,
+            "name": "XXI Simp\u00f3sio Brasileiro de Sistemas Colaborativos",
+            "acronym": "SBSC",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Porto Alegre",
+                "state": "RS",
+                "country": "BRA",
+                "beginAt": "2025-10-04T02:59:00.435000Z",
+                "endAt": "2026-05-31T02:59:00Z",
+                "makePublicAt": "2025-10-04T02:59:00.810000Z"
+            },
+            "eventParent": null,
+            "uri": "sbsc2026"
+        },
+        {
+            "id": 438,
+            "name": "IEEE/IFIP Network Operations and Management Symposium 2026 - Call for Experience Session Papers",
+            "acronym": "NOMS2026-ExperienceSession",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 464,
+            "eventInfo": {
+                "city": "Jo\u00e3o Pessoa",
+                "state": "PB",
+                "country": "BRA",
+                "beginAt": "2026-04-28T02:59:00Z",
+                "endAt": "2026-05-01T02:59:00Z",
+                "makePublicAt": "2025-10-03T02:59:00Z"
+            },
+            "eventParent": 423,
+            "uri": "noms2026_experience_session"
+        },
+        {
+            "id": 440,
+            "name": "IEEE/IFIP NOMS 2026 - Doctoral Symposium Papers",
+            "acronym": "NOMS2026-DoctoralSymposium",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Rome",
+                "state": "Rome",
+                "country": "ITA",
+                "beginAt": "2026-05-18T22:59:00Z",
+                "endAt": "2026-05-22T22:59:00Z",
+                "makePublicAt": "2025-11-20T22:59:00Z"
+            },
+            "eventParent": 423,
+            "uri": "noms2026_doctoral_symposium"
+        },
+        {
+            "id": 442,
+            "name": "IEEE/IFIP Network Operations and Management Symposium 2026 - Call for Demo Papers",
+            "acronym": "NOMS2026-Demo",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 571,
+            "eventInfo": {
+                "city": "Rome",
+                "state": "Rome",
+                "country": "ITA",
+                "beginAt": "2026-05-18T21:59:00Z",
+                "endAt": "2026-05-22T21:59:00Z",
+                "makePublicAt": "2025-12-01T22:59:00Z"
+            },
+            "eventParent": 423,
+            "uri": "noms2026_demo"
+        },
+        {
+            "id": 444,
+            "name": "XVII Computer on the Beach 2026",
+            "acronym": "XVII COTB",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 498,
+            "eventInfo": {
+                "city": "FLORIAN\u00d3POLIS",
+                "state": "SC",
+                "country": "BRA",
+                "beginAt": "2026-04-17T02:59:00Z",
+                "endAt": "2026-04-19T02:59:00Z",
+                "makePublicAt": "2025-10-07T02:59:00.128000Z"
+            },
+            "eventParent": null,
+            "uri": "xviicotb2026"
+        },
+        {
+            "id": 445,
+            "name": "Concurso de Trabalhos T\u00e9cnicos do XVII Computer on the Beach",
+            "acronym": "CTT - COTB",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 452,
+            "eventInfo": {
+                "city": "Florian\u00f3polis",
+                "state": "SC",
+                "country": "BRA",
+                "beginAt": "2026-04-16T22:59:00Z",
+                "endAt": "2026-04-18T22:59:00Z",
+                "makePublicAt": "2025-10-07T22:59:00Z"
+            },
+            "eventParent": 444,
+            "uri": "ctt-cotb2026"
+        },
+        {
+            "id": 446,
+            "name": "SBRC 2026 - Workshops",
+            "acronym": "SBRC-Workshops",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 454,
+            "eventInfo": {
+                "city": "Mata de S\u00e3o Jo\u00e3o",
+                "state": "BA",
+                "country": "BRA",
+                "beginAt": "2026-05-25T22:59:00Z",
+                "endAt": "2026-05-29T22:59:00Z",
+                "makePublicAt": "2025-09-01T22:59:00Z"
+            },
+            "eventParent": 435,
+            "uri": "sbrc2026-workshops"
+        },
+        {
+            "id": 450,
+            "name": "XVII Congresso Brasileiro de Software: Teoria e Pr\u00e1tica",
+            "acronym": "CBSoft",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "S\u00e3o Paulo",
+                "state": "SP",
+                "country": "BRA",
+                "beginAt": "2026-09-09T02:59:00Z",
+                "endAt": "2026-09-13T02:59:00Z",
+                "makePublicAt": "2025-10-14T02:59:00.712000Z"
+            },
+            "eventParent": null,
+            "uri": "cbsoft2026"
+        },
+        {
+            "id": 451,
+            "name": "CBSoft Workshops",
+            "acronym": "CBSoft Workshops",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "S\u00e3o Paulo",
+                "state": "SP",
+                "country": "BRA",
+                "beginAt": "2026-09-09T02:59:00Z",
+                "endAt": "2026-09-13T02:59:00Z",
+                "makePublicAt": "2025-10-18T02:59:00Z"
+            },
+            "eventParent": 450,
+            "uri": "cbsoftworkshops2026"
+        },
+        {
+            "id": 452,
+            "name": "20th Brazilian Symposium on Software Components, Architectures, and Reuse",
+            "acronym": "SBCARS",
+            "year": 2026,
+            "formSubmission": 493,
+            "formReview": null,
+            "eventInfo": {
+                "city": "S\u00e3o Paulo",
+                "state": "SP",
+                "country": "BRA",
+                "beginAt": "2025-12-05T02:59:00Z",
+                "endAt": "2026-10-02T02:59:00Z",
+                "makePublicAt": "2025-10-07T02:59:00.128000Z"
+            },
+            "eventParent": 450,
+            "uri": "sbcars2026"
+        },
+        {
+            "id": 454,
+            "name": "SBRC-Sal\u00e3o de Ferramentas",
+            "acronym": "SBRC-SF",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Mata de S\u00e3o Jo\u00e3o",
+                "state": "BA",
+                "country": "BRA",
+                "beginAt": "2026-05-26T02:59:00Z",
+                "endAt": "2026-05-30T02:59:00Z",
+                "makePublicAt": "2025-11-25T02:59:00Z"
+            },
+            "eventParent": 435,
+            "uri": "sbrc2026-sf"
+        },
+        {
+            "id": 455,
+            "name": "Minicursos",
+            "acronym": "SBRC",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 519,
+            "eventInfo": {
+                "city": "Mata de S\u00e3o Jo\u00e3o",
+                "state": "BA",
+                "country": "BRA",
+                "beginAt": "2026-09-09T02:59:00Z",
+                "endAt": "2026-09-13T02:59:00Z",
+                "makePublicAt": "2025-10-18T02:59:00Z"
+            },
+            "eventParent": 435,
+            "uri": "sbrc"
+        },
+        {
+            "id": 456,
+            "name": "40th Brazilian Symposium on Software Engineering",
+            "acronym": "SBES",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "S\u00e3o Paulo",
+                "state": "SP",
+                "country": "BRA",
+                "beginAt": "2026-09-09T02:59:00Z",
+                "endAt": "2026-09-13T02:59:00Z",
+                "makePublicAt": "2025-10-07T02:59:00.128000Z"
+            },
+            "eventParent": 450,
+            "uri": "sbes2026"
+        },
+        {
+            "id": 457,
+            "name": "11th Brazilian Symposium on Systematic and Automated Software Testing",
+            "acronym": "SAST",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "S\u00e3o Paulo",
+                "state": "SP",
+                "country": "BRA",
+                "beginAt": "2026-09-09T02:59:00Z",
+                "endAt": "2026-09-09T02:59:00Z",
+                "makePublicAt": "2025-11-04T02:59:00Z"
+            },
+            "eventParent": 450,
+            "uri": "sast2026"
+        },
+        {
+            "id": 459,
+            "name": "Chamada de Keynotes",
+            "acronym": "F\u00f3rum RNP",
+            "year": 2026,
+            "formSubmission": 475,
+            "formReview": 476,
+            "eventInfo": {
+                "city": "Bras\u00edlia",
+                "state": "DF",
+                "country": "BRA",
+                "beginAt": "2026-08-25T02:59:00Z",
+                "endAt": "2026-08-28T02:59:00Z",
+                "makePublicAt": "2025-12-04T02:59:00Z"
+            },
+            "eventParent": null,
+            "uri": "f\u00f3rumrnp2026-keynotes"
+        },
+        {
+            "id": 460,
+            "name": "Chamada P\u00fablica",
+            "acronym": "F\u00f3rum RNP",
+            "year": 2026,
+            "formSubmission": 515,
+            "formReview": 520,
+            "eventInfo": {
+                "city": "Bras\u00edlia",
+                "state": "DF",
+                "country": "BRA",
+                "beginAt": "2026-08-25T02:59:00Z",
+                "endAt": "2026-08-28T02:59:00Z",
+                "makePublicAt": "2026-01-26T02:59:00Z"
+            },
+            "eventParent": null,
+            "uri": "forumrnp-chamadapublica"
+        },
+        {
+            "id": 461,
+            "name": "Concurso de Teses e Disserta\u00e7\u00f5es em Engenharia de Software",
+            "acronym": "SBES-CTD-ES",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "S\u00e3o Paulo",
+                "state": "SP",
+                "country": "BRA",
+                "beginAt": "2026-09-09T02:59:00Z",
+                "endAt": "2026-09-13T02:59:00Z",
+                "makePublicAt": "2025-11-25T02:59:00Z"
+            },
+            "eventParent": 450,
+            "uri": "sbes-ctd-es2026"
+        },
+        {
+            "id": 462,
+            "name": "30th Brazilian Symposium on Programming Languages",
+            "acronym": "SBLP",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Bras\u00edlia",
+                "state": "DF",
+                "country": "BRA",
+                "beginAt": "2026-08-25T02:59:00Z",
+                "endAt": "2026-08-28T02:59:00Z",
+                "makePublicAt": "2025-12-10T02:59:00Z"
+            },
+            "eventParent": 450,
+            "uri": "sblp"
+        },
+        {
+            "id": 463,
+            "name": "RNP PDI SA 2026 - Programa de PDI para Servi\u00e7os Avan\u00e7ados (SA) da RNP",
+            "acronym": "RNP PDI SA",
+            "year": 2026,
+            "formSubmission": 486,
+            "formReview": 477,
+            "eventInfo": {
+                "city": "Rio de Janeiro",
+                "state": "RJ",
+                "country": "BRA",
+                "beginAt": "2025-12-02T02:59:00Z",
+                "endAt": "2026-04-17T02:59:00Z",
+                "makePublicAt": "2025-12-02T02:59:00Z"
+            },
+            "eventParent": null,
+            "uri": "rnppdisa"
+        },
+        {
+            "id": 464,
+            "name": "Insightful Ideas and Emerging Results Track",
+            "acronym": "SBES-IIER",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Bras\u00edlia",
+                "state": "DF",
+                "country": "BRA",
+                "beginAt": "2026-09-09T02:59:00Z",
+                "endAt": "2026-09-13T02:59:00Z",
+                "makePublicAt": "2025-12-17T02:59:00Z"
+            },
+            "eventParent": 450,
+            "uri": "sbes-iier2026"
+        },
+        {
+            "id": 465,
+            "name": "NOMS2026-AIMLOps - 1st IEEE/IFIP International Workshop on AI-driven Management and MLOps for Networks and Services",
+            "acronym": "NOMS2026-AIMLOps",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 531,
+            "eventInfo": {
+                "city": "Rome",
+                "state": "Rome",
+                "country": "ITA",
+                "beginAt": "2026-05-18T02:59:00Z",
+                "endAt": "2026-05-22T02:59:00Z",
+                "makePublicAt": "2025-11-25T02:59:00Z"
+            },
+            "eventParent": 423,
+            "uri": "noms2026_aimlops_workshop"
+        },
+        {
+            "id": 467,
+            "name": "NOMS2026-MFI5.0 \u2013 7th Workshop on Management for Industry 5.0",
+            "acronym": "NOMS2026-MFI5.0",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 547,
+            "eventInfo": {
+                "city": "Rome",
+                "state": "Rome",
+                "country": "ITA",
+                "beginAt": "2025-11-26T22:59:00Z",
+                "endAt": "2026-05-31T21:59:00Z",
+                "makePublicAt": "2025-11-26T22:59:00Z"
+            },
+            "eventParent": 423,
+            "uri": "noms2026_mfi5.0_workshop"
+        },
+        {
+            "id": 468,
+            "name": "NOMS2026-AgenNet \u2013 International Workshop on Agentic AI Networking",
+            "acronym": "NOMS2026-AgenNet",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 546,
+            "eventInfo": {
+                "city": "Rome",
+                "state": "Rome",
+                "country": "ITA",
+                "beginAt": "2025-11-26T22:59:00Z",
+                "endAt": "2026-05-23T21:59:00Z",
+                "makePublicAt": "2025-11-26T22:59:00Z"
+            },
+            "eventParent": 423,
+            "uri": "noms2026_agennet_workshop"
+        },
+        {
+            "id": 469,
+            "name": "NOMS2026-MCT \u2013 Management of Complex Threats",
+            "acronym": "NOMS2026-MCT",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 532,
+            "eventInfo": {
+                "city": "Rome",
+                "state": "Rome",
+                "country": "ITA",
+                "beginAt": "2026-05-18T21:59:00Z",
+                "endAt": "2026-05-22T21:59:00Z",
+                "makePublicAt": "2025-11-26T22:59:00Z"
+            },
+            "eventParent": 423,
+            "uri": "noms2026_mct_workshop"
+        },
+        {
+            "id": 472,
+            "name": "Tools Track",
+            "acronym": "SBES-Tools",
+            "year": 2026,
+            "formSubmission": 480,
+            "formReview": 481,
+            "eventInfo": {
+                "city": "S\u00e3o Paulo",
+                "state": "SP",
+                "country": "BRA",
+                "beginAt": "2026-09-08T22:59:00Z",
+                "endAt": "2026-09-12T22:59:00Z",
+                "makePublicAt": "2025-11-26T22:59:00Z"
+            },
+            "eventParent": 450,
+            "uri": "sbes-tools2026"
+        },
+        {
+            "id": 473,
+            "name": "XXI Simp\u00f3sio Brasileiro de Sistemas Colaborativos - Trilha Artigos de Pesquisa",
+            "acronym": "XXI SBSC - Artigos de pesquisa",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 538,
+            "eventInfo": {
+                "city": "Porto Alegre",
+                "state": "RS",
+                "country": "BRA",
+                "beginAt": "2026-06-09T02:59:00Z",
+                "endAt": "2026-06-13T02:59:00Z",
+                "makePublicAt": "2025-12-04T02:59:00Z"
+            },
+            "eventParent": 436,
+            "uri": "xxisbsc-artigosdepesquisa2026"
+        },
+        {
+            "id": 474,
+            "name": "Semin\u00e1rio Integrado de Software e Hardware",
+            "acronym": "SEMISH",
+            "year": 2026,
+            "formSubmission": 484,
+            "formReview": 483,
+            "eventInfo": {
+                "city": "Gramado",
+                "state": "RS",
+                "country": "BRA",
+                "beginAt": "2026-07-19T22:59:00Z",
+                "endAt": "2026-07-23T22:59:00Z",
+                "makePublicAt": "2025-11-26T22:59:00Z"
+            },
+            "eventParent": 421,
+            "uri": "csbc-semish2026"
+        },
+        {
+            "id": 475,
+            "name": "XXI Simp\u00f3sio Brasileiro de Sistemas Colaborativos - Trilha Ideias Inovadoras e Resultados Emergentes",
+            "acronym": "XXI SBSC - IIRE",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 494,
+            "eventInfo": {
+                "city": "Porto Alegre",
+                "state": "RS",
+                "country": "BRA",
+                "beginAt": "2026-06-09T02:59:00Z",
+                "endAt": "2026-06-13T02:59:00Z",
+                "makePublicAt": "2025-12-04T02:59:00Z"
+            },
+            "eventParent": 436,
+            "uri": "xxisbsc-iire2026"
+        },
+        {
+            "id": 476,
+            "name": "XXI Simp\u00f3sio Brasileiro de Sistemas Colaborativos - Concurso de Teses, Disserta\u00e7\u00f5es e TCCs",
+            "acronym": "XXI SBSC - CTDT",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Porto Alegre",
+                "state": "RS",
+                "country": "BRA",
+                "beginAt": "2026-06-09T02:59:00Z",
+                "endAt": "2026-06-13T02:59:00Z",
+                "makePublicAt": "2025-12-04T02:59:00Z"
+            },
+            "eventParent": 436,
+            "uri": "xxisbsc-ctdt2026"
+        },
+        {
+            "id": 477,
+            "name": "XXI Simp\u00f3sio Brasileiro de Sistemas Colaborativos - Trilha de Desenho de Pesquisa",
+            "acronym": "XXI SBSC - Desenho de pesquisa",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Porto Alegre",
+                "state": "RS",
+                "country": "BRA",
+                "beginAt": "2026-06-09T02:59:00Z",
+                "endAt": "2026-06-13T02:59:00Z",
+                "makePublicAt": "2025-12-04T02:59:00Z"
+            },
+            "eventParent": 436,
+            "uri": "xxisbsc-desenhodepesquisa2026"
+        },
+        {
+            "id": 478,
+            "name": "XXI Simp\u00f3sio Brasileiro de Sistemas Colaborativos -  Trilha Colabora\u00e7\u00e3o na Extens\u00e3o",
+            "acronym": "XXI SBSC - Colab na Extens\u00e3o",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 496,
+            "eventInfo": {
+                "city": "Porto Alegre",
+                "state": "RS",
+                "country": "BRA",
+                "beginAt": "2026-06-09T02:59:00Z",
+                "endAt": "2026-06-13T02:59:00Z",
+                "makePublicAt": "2025-12-04T02:59:00Z"
+            },
+            "eventParent": 436,
+            "uri": "xxisbsc-colabnaextens\u00e3o2026"
+        },
+        {
+            "id": 479,
+            "name": "XXI Simp\u00f3sio Brasileiro de Sistemas Colaborativos - Colabora\u00e7\u00e3o na Pr\u00e1tica",
+            "acronym": "XXI SBSC - Colab na Pr\u00e1tica",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Porto Alegre",
+                "state": "RS",
+                "country": "BRA",
+                "beginAt": "2026-06-09T02:59:00Z",
+                "endAt": "2026-06-13T02:59:00Z",
+                "makePublicAt": "2025-12-04T02:59:00Z"
+            },
+            "eventParent": 436,
+            "uri": "xxisbsc-colabnapr\u00e1tica2026"
+        },
+        {
+            "id": 480,
+            "name": "Concurso de Teses e Disserta\u00e7\u00f5es do Congresso da Sociedade Brasileira de Computa\u00e7\u00e3o",
+            "acronym": "CTD",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Gramado",
+                "state": "RS",
+                "country": "BRA",
+                "beginAt": "2026-07-20T02:59:00Z",
+                "endAt": "2026-07-24T02:59:00Z",
+                "makePublicAt": "2025-12-02T02:59:00Z"
+            },
+            "eventParent": 421,
+            "uri": "csbc-ctd2026"
+        },
+        {
+            "id": 481,
+            "name": "Concurso de Trabalhos de Inicia\u00e7\u00e3o Cient\u00edfica",
+            "acronym": "CTIC",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Gramado",
+                "state": "RS",
+                "country": "BRA",
+                "beginAt": "2026-07-20T02:59:00Z",
+                "endAt": "2026-07-24T02:59:00Z",
+                "makePublicAt": "2026-01-02T02:59:00Z"
+            },
+            "eventParent": 421,
+            "uri": "csbc-ctic2026"
+        },
+        {
+            "id": 482,
+            "name": "Workshop sobre Educa\u00e7\u00e3o em Computa\u00e7\u00e3o",
+            "acronym": "WEI",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 500,
+            "eventInfo": {
+                "city": "Gramado",
+                "state": "RS",
+                "country": "BRA",
+                "beginAt": "2026-07-20T02:59:00Z",
+                "endAt": "2026-07-24T02:59:00Z",
+                "makePublicAt": "2026-01-02T02:59:00Z"
+            },
+            "eventParent": 421,
+            "uri": "csbc-wei2026"
+        },
+        {
+            "id": 483,
+            "name": "Women in Information Technology",
+            "acronym": "WIT",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Porto Alegre",
+                "state": "RS",
+                "country": "BRA",
+                "beginAt": "2026-06-09T02:59:00Z",
+                "endAt": "2026-06-13T02:59:00Z",
+                "makePublicAt": "2025-12-04T02:59:00Z"
+            },
+            "eventParent": 421,
+            "uri": "csbc-wit2026"
+        },
+        {
+            "id": 484,
+            "name": "Jornadas de Atualiza\u00e7\u00e3o em Inform\u00e1tica",
+            "acronym": "JAI",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Gramado",
+                "state": "RS",
+                "country": "BRA",
+                "beginAt": "2026-07-20T02:59:00Z",
+                "endAt": "2026-07-24T02:59:00Z",
+                "makePublicAt": "2026-01-02T02:59:00Z"
+            },
+            "eventParent": 421,
+            "uri": "csbc-jai2026"
+        },
+        {
+            "id": 485,
+            "name": "Education Track",
+            "acronym": "SBES-Education",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Gramado",
+                "state": "RS",
+                "country": "BRA",
+                "beginAt": "2026-07-20T02:59:00Z",
+                "endAt": "2026-07-24T02:59:00Z",
+                "makePublicAt": "2026-01-02T02:59:00Z"
+            },
+            "eventParent": 450,
+            "uri": "sbes-education2026"
+        },
+        {
+            "id": 486,
+            "name": "32\u00b0 Simp\u00f3sio Brasileiro de Sistemas Multim\u00eddia e Web",
+            "acronym": "WebMedia",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Lavras",
+                "state": "MG",
+                "country": "BRA",
+                "beginAt": "2026-10-28T02:59:00Z",
+                "endAt": "2026-10-31T02:59:00Z",
+                "makePublicAt": "2026-01-02T02:59:00Z"
+            },
+            "eventParent": null,
+            "uri": "webmedia2026"
+        },
+        {
+            "id": 487,
+            "name": "XXV Simp\u00f3sio Brasileiro sobre Fatores Humanos em Sistemas Computacionais",
+            "acronym": "IHC",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Quixad\u00e1",
+                "state": "CE",
+                "country": "BRA",
+                "beginAt": "2026-10-20T02:59:00Z",
+                "endAt": "2026-10-24T02:59:00Z",
+                "makePublicAt": "2026-01-02T02:59:00Z"
+            },
+            "eventParent": null,
+            "uri": "ihc2026"
+        },
+        {
+            "id": 489,
+            "name": "XXVI Simp\u00f3sio Brasileiro de Computa\u00e7\u00e3o Aplicada \u00e0 Sa\u00fade",
+            "acronym": "SBCAS",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 557,
+            "eventInfo": {
+                "city": "Ouro Preto",
+                "state": "MG",
+                "country": "BRA",
+                "beginAt": "2026-06-02T02:59:00Z",
+                "endAt": "2026-06-05T02:59:00Z",
+                "makePublicAt": "2025-12-10T02:59:00.001000Z"
+            },
+            "eventParent": null,
+            "uri": "sbcas2026"
+        },
+        {
+            "id": 490,
+            "name": "SBRC-Concurso de Teses e Disserta\u00e7\u00f5es: Teses de Doutorado",
+            "acronym": "SBRC CTD  - Doutorado",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 534,
+            "eventInfo": {
+                "city": "Praia do Forte",
+                "state": "BA",
+                "country": "BRA",
+                "beginAt": "2026-01-04T02:59:00Z",
+                "endAt": "2026-05-30T02:59:00Z",
+                "makePublicAt": "2026-01-02T02:59:00Z"
+            },
+            "eventParent": 435,
+            "uri": "sbrcctd-doutorado"
+        },
+        {
+            "id": 491,
+            "name": "SBRC - Concurso de Teses e Disserta\u00e7\u00f5es: Disserta\u00e7\u00f5es de Mestrado",
+            "acronym": "SBRC CTD - Mestrado",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 536,
+            "eventInfo": {
+                "city": "Praia do Forte",
+                "state": "BA",
+                "country": "BRA",
+                "beginAt": "2026-01-04T02:59:00Z",
+                "endAt": "2026-05-30T02:59:00Z",
+                "makePublicAt": "2025-12-16T02:59:00Z"
+            },
+            "eventParent": 435,
+            "uri": "sbrcctd-mestrado"
+        },
+        {
+            "id": 492,
+            "name": "VII Workshop sobre as Implica\u00e7\u00f5es da Computa\u00e7\u00e3o na Sociedade",
+            "acronym": "WICS",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Campinas",
+                "state": "SP",
+                "country": "BRA",
+                "beginAt": "2025-12-18T02:59:00Z",
+                "endAt": "2026-08-01T02:59:00Z",
+                "makePublicAt": "2025-12-18T02:59:00Z"
+            },
+            "eventParent": 421,
+            "uri": "wics"
+        },
+        {
+            "id": 494,
+            "name": "36th Brazilian Conference on Intelligent Systems",
+            "acronym": "BRACIS",
+            "year": 2026,
+            "formSubmission": 556,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Cuiab\u00e1",
+                "state": "Mato Grosso",
+                "country": "BRA",
+                "beginAt": "2026-10-20T03:59:00Z",
+                "endAt": "2026-10-23T03:59:00Z",
+                "makePublicAt": "2026-03-02T03:59:00Z"
+            },
+            "eventParent": null,
+            "uri": "bracis2026"
+        },
+        {
+            "id": 496,
+            "name": "Minicursos do SBCAS 2026",
+            "acronym": "SBCAS_Minicursos",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Ouro Preto",
+                "state": "MG",
+                "country": "BRA",
+                "beginAt": "2026-02-01T02:59:00Z",
+                "endAt": "2026-04-01T02:59:00Z",
+                "makePublicAt": "2025-12-16T02:59:00Z"
+            },
+            "eventParent": 489,
+            "uri": "sbcas_minicursos2026"
+        },
+        {
+            "id": 497,
+            "name": "Laborat\u00f3rio de Ideias",
+            "acronym": "LabIdeias",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 558,
+            "eventInfo": {
+                "city": "Campo Grande",
+                "state": "MS",
+                "country": "BRA",
+                "beginAt": "2026-05-05T02:59:00Z",
+                "endAt": "2026-05-09T02:59:00Z",
+                "makePublicAt": "2025-12-13T02:59:00.210000Z"
+            },
+            "eventParent": 414,
+            "uri": "labideias2026"
+        },
+        {
+            "id": 498,
+            "name": "Mesas Tem\u00e1ticas",
+            "acronym": "EduComp Mesas Tem\u00e1ticas",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 560,
+            "eventInfo": {
+                "city": "Campo Grande",
+                "state": "MS",
+                "country": "BRA",
+                "beginAt": "2026-05-05T02:59:00Z",
+                "endAt": "2026-05-09T02:59:00Z",
+                "makePublicAt": "2025-12-13T02:59:00.180000Z"
+            },
+            "eventParent": 414,
+            "uri": "educompmesastem\u00e1ticas2026"
+        },
+        {
+            "id": 499,
+            "name": "Minicursos",
+            "acronym": "EduComp 2026 - Minicursos",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 561,
+            "eventInfo": {
+                "city": "Campo Grande",
+                "state": "MS",
+                "country": "BRA",
+                "beginAt": "2026-05-05T02:59:00Z",
+                "endAt": "2026-05-09T02:59:00Z",
+                "makePublicAt": "2025-12-13T02:59:00.518000Z"
+            },
+            "eventParent": 414,
+            "uri": "educomp2026-minicursos2026"
+        },
+        {
+            "id": 500,
+            "name": "Workshop de Teses e Disserta\u00e7\u00f5es",
+            "acronym": "WTD EduComp",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Campo Grande",
+                "state": "MS",
+                "country": "BRA",
+                "beginAt": "2026-05-05T02:59:00Z",
+                "endAt": "2026-05-09T02:59:00Z",
+                "makePublicAt": "2025-12-13T02:59:00.910000Z"
+            },
+            "eventParent": 414,
+            "uri": "wtdeducomp2026"
+        },
+        {
+            "id": 501,
+            "name": "Concurso de Teses e Disserta\u00e7\u00f5es",
+            "acronym": "CTD EduComp",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 551,
+            "eventInfo": {
+                "city": "Campo Grande",
+                "state": "MS",
+                "country": "BRA",
+                "beginAt": "2026-05-05T02:59:00Z",
+                "endAt": "2026-05-09T02:59:00Z",
+                "makePublicAt": "2025-12-13T02:59:00.262000Z"
+            },
+            "eventParent": 414,
+            "uri": "ctdeducomp2026"
+        },
+        {
+            "id": 502,
+            "name": "13\u00ba Encontro Nacional de Computa\u00e7\u00e3o dos Institutos Federais",
+            "acronym": "ENCompIF",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 553,
+            "eventInfo": {
+                "city": "Gramado",
+                "state": "RS",
+                "country": "BRA",
+                "beginAt": "2026-07-24T02:59:00Z",
+                "endAt": "2026-07-24T02:59:00Z",
+                "makePublicAt": "2025-12-18T02:59:00Z"
+            },
+            "eventParent": 421,
+            "uri": "encompif2026"
+        },
+        {
+            "id": 503,
+            "name": "XI Workshop sobre Aspectos Sociais, Humanos e Econ\u00f4micos de Software (WASHES 2026)",
+            "acronym": "WASHES",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Gramado",
+                "state": "RS",
+                "country": "BRA",
+                "beginAt": "2026-07-20T02:59:00Z",
+                "endAt": "2026-07-24T02:59:00Z",
+                "makePublicAt": "2025-12-19T02:59:00Z"
+            },
+            "eventParent": 421,
+            "uri": "washes2026"
+        },
+        {
+            "id": 504,
+            "name": "Trilha de Ferramentas e Aplica\u00e7\u00f5es do SBCAS 2026",
+            "acronym": "SBCAS_FA",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Ouro Preto",
+                "state": "MG",
+                "country": "BRA",
+                "beginAt": "2026-06-02T02:59:00Z",
+                "endAt": "2026-06-05T02:59:00Z",
+                "makePublicAt": "2025-12-13T02:59:00.910000Z"
+            },
+            "eventParent": 489,
+            "uri": "sbcas_fa2026"
+        },
+        {
+            "id": 505,
+            "name": "XVII Workshop de Computa\u00e7\u00e3o Aplicada \u00e0 Gest\u00e3o do Meio Ambiente e Recursos Naturais",
+            "acronym": "WCAMA",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Campo Grande",
+                "state": "MS",
+                "country": "BRA",
+                "beginAt": "2026-05-05T02:59:00Z",
+                "endAt": "2026-05-09T02:59:00Z",
+                "makePublicAt": "2025-12-13T02:59:00.262000Z"
+            },
+            "eventParent": 421,
+            "uri": "wcama2026"
+        },
+        {
+            "id": 506,
+            "name": "Concurso de Teses e Disserta\u00e7\u00f5es do SBCAS 2026",
+            "acronym": "SBCAS_CTD",
+            "year": 2026,
+            "formSubmission": 497,
+            "formReview": 499,
+            "eventInfo": {
+                "city": "Ouro Preto",
+                "state": "MG",
+                "country": "BRA",
+                "beginAt": "2026-06-02T02:59:00Z",
+                "endAt": "2026-06-05T02:59:00Z",
+                "makePublicAt": "2025-12-19T02:59:00Z"
+            },
+            "eventParent": 489,
+            "uri": "sbcas_ctd2026"
+        },
+        {
+            "id": 507,
+            "name": "Concurso de Trabalhos de Inicia\u00e7\u00e3o Cient\u00edfica do SBCAS 2026",
+            "acronym": "SBCAS_CTIC",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Ouro Preto",
+                "state": "MG",
+                "country": "BRA",
+                "beginAt": "2026-06-02T02:59:00Z",
+                "endAt": "2026-06-05T02:59:00Z",
+                "makePublicAt": "2025-12-19T02:59:00Z"
+            },
+            "eventParent": 489,
+            "uri": "sbcas_ctic2026"
+        },
+        {
+            "id": 508,
+            "name": "III Simp\u00f3sio Brasileiro de Computa\u00e7\u00e3o na Educa\u00e7\u00e3o B\u00e1sica",
+            "acronym": "SBC-EB",
+            "year": 2026,
+            "formSubmission": 495,
+            "formReview": 550,
+            "eventInfo": {
+                "city": "Campo Grande",
+                "state": "MS",
+                "country": "BRA",
+                "beginAt": "2026-05-07T02:59:00Z",
+                "endAt": "2026-05-09T02:59:00Z",
+                "makePublicAt": "2025-12-16T02:59:00Z"
+            },
+            "eventParent": null,
+            "uri": "sbc-eb2026"
+        },
+        {
+            "id": 509,
+            "name": "XII Latin American Conference on Human\u2013Computer Interaction",
+            "acronym": "CLIHC26",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Aracaju",
+                "state": "SE",
+                "country": "BRA",
+                "beginAt": "2026-05-07T02:59:00Z",
+                "endAt": "2026-05-09T02:59:00Z",
+                "makePublicAt": "2025-12-19T02:59:00Z"
+            },
+            "eventParent": null,
+            "uri": "clihc2026"
+        },
+        {
+            "id": 510,
+            "name": "CLIHC26 2026 - XII Latin American Conference on Human\u2013Computer Interaction - Full Papers",
+            "acronym": "CLIHC - FP",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Aracaju",
+                "state": "SE",
+                "country": "BRA",
+                "beginAt": "2026-05-07T02:59:00Z",
+                "endAt": "2026-05-09T02:59:00Z",
+                "makePublicAt": "2025-12-19T02:59:00Z"
+            },
+            "eventParent": 509,
+            "uri": "clihc-fp2026"
+        },
+        {
+            "id": 511,
+            "name": "XVIII Simp\u00f3sio Brasileiro de Computa\u00e7\u00e3o Ubiqua e Pervasiva",
+            "acronym": "SBCUP",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Gramado",
+                "state": "Rio Grande do Sul",
+                "country": "BRA",
+                "beginAt": "2026-07-20T02:59:00Z",
+                "endAt": "2026-07-24T02:59:00Z",
+                "makePublicAt": "2025-12-23T02:59:00.586000Z"
+            },
+            "eventParent": 421,
+            "uri": "sbcup2026"
+        },
+        {
+            "id": 512,
+            "name": "XXI Escola Regional de Banco de Dados",
+            "acronym": "ERBD",
+            "year": 2026,
+            "formSubmission": 502,
+            "formReview": 537,
+            "eventInfo": {
+                "city": "Dois Vizinhos",
+                "state": "PR",
+                "country": "BRA",
+                "beginAt": "2026-04-23T02:59:00Z",
+                "endAt": "2026-04-25T02:59:00Z",
+                "makePublicAt": "2025-12-16T02:59:00Z"
+            },
+            "eventParent": null,
+            "uri": "erbd"
+        },
+        {
+            "id": 513,
+            "name": "2\u00ba Workshop sobre Inova\u00e7\u00e3o, Desenvolvimento, Educa\u00e7\u00e3o e Inclus\u00e3o com A\u00e7\u00f5es Maker",
+            "acronym": "IDEIA",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 503,
+            "eventInfo": {
+                "city": "Gramado",
+                "state": "RS",
+                "country": "BRA",
+                "beginAt": "2026-07-22T02:59:00Z",
+                "endAt": "2026-07-23T02:59:00Z",
+                "makePublicAt": "2026-01-19T02:59:00Z"
+            },
+            "eventParent": 421,
+            "uri": "ideia"
+        },
+        {
+            "id": 514,
+            "name": "SBRC - Trilha de Ind\u00fastria",
+            "acronym": "sbrc-industria",
+            "year": 2026,
+            "formSubmission": 501,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Mata de S\u00e3o Jo\u00e3o",
+                "state": "BA",
+                "country": "BRA",
+                "beginAt": "2026-01-03T02:59:00Z",
+                "endAt": "2026-05-24T02:59:00Z",
+                "makePublicAt": "2026-01-03T02:59:00Z"
+            },
+            "eventParent": 435,
+            "uri": "sbrc2026-industria"
+        },
+        {
+            "id": 515,
+            "name": "ERAD/RS 2026 - XXVI Escola Regional de Alto Desempenho da Regi\u00e3o Sul (ERAD/RS 2026)",
+            "acronym": "ERAD/RS",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Bag\u00e9",
+                "state": "RS",
+                "country": "BRA",
+                "beginAt": "2026-05-07T02:59:00Z",
+                "endAt": "2026-05-09T02:59:00Z",
+                "makePublicAt": "2026-01-03T02:59:00.589000Z"
+            },
+            "eventParent": null,
+            "uri": "erad/rs2026"
+        },
+        {
+            "id": 516,
+            "name": "F\u00f3rum IC - ERAD/RS 2026",
+            "acronym": "IC",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Bag\u00e9",
+                "state": "RS",
+                "country": "BRA",
+                "beginAt": "2026-05-07T02:59:00Z",
+                "endAt": "2026-05-09T02:59:00Z",
+                "makePublicAt": "2026-01-06T02:59:00.972000Z"
+            },
+            "eventParent": 515,
+            "uri": "ic2026"
+        },
+        {
+            "id": 517,
+            "name": "F\u00f3rum PG - ERAD/RS 2026",
+            "acronym": "PG",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Bag\u00e9",
+                "state": "RS",
+                "country": "BRA",
+                "beginAt": "2026-05-07T02:59:00Z",
+                "endAt": "2026-05-09T02:59:00Z",
+                "makePublicAt": "2026-01-06T02:59:00.427000Z"
+            },
+            "eventParent": 515,
+            "uri": "pg2026"
+        },
+        {
+            "id": 518,
+            "name": "IV Col\u00f3quio em Blockchain e Web Descentralizada",
+            "acronym": "CBlockchain",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Gramado",
+                "state": "RS",
+                "country": "BRA",
+                "beginAt": "2026-07-20T02:59:00Z",
+                "endAt": "2026-07-24T02:59:00Z",
+                "makePublicAt": "2026-01-03T02:59:00Z"
+            },
+            "eventParent": 421,
+            "uri": "cblockchain2026"
+        },
+        {
+            "id": 519,
+            "name": "Workshop em Desempenho de Sistemas Computacionais e de Comunica\u00e7\u00e3o",
+            "acronym": "WPerformance",
+            "year": 2026,
+            "formSubmission": 508,
+            "formReview": 510,
+            "eventInfo": {
+                "city": "Gramado",
+                "state": "RS",
+                "country": "BRA",
+                "beginAt": "2026-07-20T02:59:00Z",
+                "endAt": "2026-07-24T02:59:00Z",
+                "makePublicAt": "2026-01-07T02:59:00.635000Z"
+            },
+            "eventParent": 421,
+            "uri": "wperformance2026"
+        },
+        {
+            "id": 520,
+            "name": "Programa de Gest\u00e3o de Identidades 2026",
+            "acronym": "PGId",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 512,
+            "eventInfo": {
+                "city": "Rio de Janeiro",
+                "state": "RJ",
+                "country": "BRA",
+                "beginAt": "2026-01-20T02:59:00Z",
+                "endAt": "2026-03-26T02:59:00Z",
+                "makePublicAt": "2026-01-20T02:59:00Z"
+            },
+            "eventParent": null,
+            "uri": "pgid2026"
+        },
+        {
+            "id": 521,
+            "name": "LASDiGov 2026 - Latin American Symposium on Digital Government",
+            "acronym": "LASDiGov",
+            "year": 2026,
+            "formSubmission": 506,
+            "formReview": 507,
+            "eventInfo": {
+                "city": "Gramado",
+                "state": "RS",
+                "country": "BRA",
+                "beginAt": "2026-07-20T02:59:00Z",
+                "endAt": "2026-07-24T02:59:00Z",
+                "makePublicAt": "2026-01-08T02:59:00.405000Z"
+            },
+            "eventParent": 421,
+            "uri": "lasdigov2026"
+        },
+        {
+            "id": 522,
+            "name": "Workshop do Simp\u00f3sio Brasileiro de Computa\u00e7\u00e3o Aplicada \u00e0 Sa\u00fade",
+            "acronym": "SBCAS_Workshop",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Ouro Preto",
+                "state": "MG",
+                "country": "BRA",
+                "beginAt": "2026-01-09T02:59:00.669000Z",
+                "endAt": "2026-06-05T02:59:00Z",
+                "makePublicAt": "2026-01-09T02:59:00.536000Z"
+            },
+            "eventParent": 489,
+            "uri": "sbcas_workshop2026"
+        },
+        {
+            "id": 523,
+            "name": "Grandes Desafios da Computa\u00e7\u00e3o Aplicada \u00e0 Sa\u00fade",
+            "acronym": "SBCAS_Desafios",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Ouro Preto",
+                "state": "MG",
+                "country": "BRA",
+                "beginAt": "2026-06-02T02:59:00Z",
+                "endAt": "2026-06-05T02:59:00Z",
+                "makePublicAt": "2026-01-09T02:59:00.626000Z"
+            },
+            "eventParent": 489,
+            "uri": "sbcas_desafios2026"
+        },
+        {
+            "id": 524,
+            "name": "Congresso de Inicia\u00e7\u00e3o Cient\u00edfica do Inatel",
+            "acronym": "38\u00ba INCITEL",
+            "year": 2026,
+            "formSubmission": 504,
+            "formReview": 505,
+            "eventInfo": {
+                "city": "Santa Rita do Sapuca\u00ed",
+                "state": "MG",
+                "country": "BRA",
+                "beginAt": "2026-02-03T02:59:00Z",
+                "endAt": "2026-07-01T02:59:00Z",
+                "makePublicAt": "2026-02-03T02:59:00Z"
+            },
+            "eventParent": null,
+            "uri": "38\u00baincitel2026"
+        },
+        {
+            "id": 525,
+            "name": "Selo de Inova\u00e7\u00e3o SBC 2026",
+            "acronym": "SeloInovacaoSBC",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Gramado",
+                "state": "RS",
+                "country": "BRA",
+                "beginAt": "2026-07-20T02:59:00Z",
+                "endAt": "2026-07-24T02:59:00Z",
+                "makePublicAt": "2026-01-08T02:59:00.405000Z"
+            },
+            "eventParent": 421,
+            "uri": "seloinovacaosbc2026"
+        },
+        {
+            "id": 526,
+            "name": "I Simp\u00f3sio Brasileiro de Computa\u00e7\u00e3o e Comunica\u00e7\u00e3o Qu\u00e2nticas",
+            "acronym": "SBCCQ",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Gramado",
+                "state": "RS",
+                "country": "BRA",
+                "beginAt": "2026-07-20T02:59:00Z",
+                "endAt": "2026-07-24T02:59:00Z",
+                "makePublicAt": "2026-01-13T02:59:00.504000Z"
+            },
+            "eventParent": 421,
+            "uri": "sbccq2026"
+        },
+        {
+            "id": 527,
+            "name": "Pr\u00eamio Nacional Anprotec de Empreendedorismo Inovador - Edi\u00e7\u00e3o 2026",
+            "acronym": "Pr\u00eamio Anprotec",
+            "year": 2026,
+            "formSubmission": 509,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Manaus",
+                "state": "AM",
+                "country": "BRA",
+                "beginAt": "2026-06-02T02:59:00Z",
+                "endAt": "2026-06-05T02:59:00Z",
+                "makePublicAt": "2026-01-09T02:59:00.626000Z"
+            },
+            "eventParent": null,
+            "uri": "pr\u00eamioanprotec2026"
+        },
+        {
+            "id": 528,
+            "name": "XXVII Workshop de Testes e Toler\u00e2ncia a Falhas (WTF 2026)",
+            "acronym": "WTF",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Praia do Forte",
+                "state": "Bahia",
+                "country": "BRA",
+                "beginAt": "2026-05-26T02:59:00Z",
+                "endAt": "2026-05-30T02:59:00Z",
+                "makePublicAt": "2026-01-16T02:59:00Z"
+            },
+            "eventParent": 435,
+            "uri": "wtf2026"
+        },
+        {
+            "id": 529,
+            "name": "XV Brazilian Workshop on Social Network Analysis and Mining",
+            "acronym": "BraSNAM",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Gramado",
+                "state": "RS",
+                "country": "BRA",
+                "beginAt": "2026-07-21T02:59:00Z",
+                "endAt": "2026-07-22T02:59:00Z",
+                "makePublicAt": "2026-01-20T02:59:00Z"
+            },
+            "eventParent": 421,
+            "uri": "brasnam2026"
+        },
+        {
+            "id": 530,
+            "name": "Premia\u00e7\u00e3o Incubadora - Trof\u00e9u Adelino Medeiros",
+            "acronym": "Pr\u00eamio Incubadora",
+            "year": 2026,
+            "formSubmission": 513,
+            "formReview": 566,
+            "eventInfo": {
+                "city": "Manaus",
+                "state": "AM",
+                "country": "BRA",
+                "beginAt": "2026-06-30T02:59:00Z",
+                "endAt": "2026-07-03T02:59:00Z",
+                "makePublicAt": "2026-01-20T02:59:00Z"
+            },
+            "eventParent": 527,
+            "uri": "pr\u00eamioincubadora2026"
+        },
+        {
+            "id": 531,
+            "name": "Premia\u00e7\u00e3o Aceleradora - Trof\u00e9u Lynaldo Cavalcanti",
+            "acronym": "Premia\u00e7\u00e3o Aceleradora",
+            "year": 2026,
+            "formSubmission": 514,
+            "formReview": 567,
+            "eventInfo": {
+                "city": "Manaus",
+                "state": "AM",
+                "country": "BRA",
+                "beginAt": "2026-06-30T02:59:00Z",
+                "endAt": "2026-07-03T02:59:00Z",
+                "makePublicAt": "2026-01-20T02:59:00Z"
+            },
+            "eventParent": 527,
+            "uri": "premia\u00e7\u00e3oaceleradora2026"
+        },
+        {
+            "id": 532,
+            "name": "Premia\u00e7\u00e3o Hub de Inova\u00e7\u00e3o - Trof\u00e9u Cristiano Becker",
+            "acronym": "Premia\u00e7\u00e3o Hub de Inova\u00e7\u00e3o",
+            "year": 2026,
+            "formSubmission": 518,
+            "formReview": 568,
+            "eventInfo": {
+                "city": "Manaus",
+                "state": "AM",
+                "country": "BRA",
+                "beginAt": "2026-06-30T02:59:00Z",
+                "endAt": "2026-07-03T02:59:00Z",
+                "makePublicAt": "2026-01-20T02:59:00Z"
+            },
+            "eventParent": 527,
+            "uri": "premia\u00e7\u00e3ohubdeinova\u00e7\u00e3o2026"
+        },
+        {
+            "id": 533,
+            "name": "Premia\u00e7\u00e3o Parque Cient\u00edfico e Tecnol\u00f3gico (PCT) - Trof\u00e9u Telmo Silva Ara\u00fajo",
+            "acronym": "Premia\u00e7\u00e3o PCT",
+            "year": 2026,
+            "formSubmission": 517,
+            "formReview": 569,
+            "eventInfo": {
+                "city": "Manaus",
+                "state": "AM",
+                "country": "BRA",
+                "beginAt": "2026-06-30T02:59:00Z",
+                "endAt": "2026-07-03T02:59:00Z",
+                "makePublicAt": "2026-01-20T02:59:00Z"
+            },
+            "eventParent": 527,
+            "uri": "premia\u00e7\u00e3opct2026"
+        },
+        {
+            "id": 534,
+            "name": "Premia\u00e7\u00e3o Neg\u00f3cios de Impacto - Trof\u00e9u Carlos Eduardo Negr\u00e3o Bizzotto",
+            "acronym": "Premia\u00e7\u00e3o Neg\u00f3cios de Impacto",
+            "year": 2026,
+            "formSubmission": 516,
+            "formReview": 565,
+            "eventInfo": {
+                "city": "Manaus",
+                "state": "AM",
+                "country": "BRA",
+                "beginAt": "2026-06-30T02:59:00Z",
+                "endAt": "2026-07-03T02:59:00Z",
+                "makePublicAt": "2026-01-20T02:59:00Z"
+            },
+            "eventParent": 527,
+            "uri": "premia\u00e7\u00e3oneg\u00f3ciosdeimpacto2026"
+        },
+        {
+            "id": 535,
+            "name": "CLIHC - SP 2026 - CLIHC26 2026 - XII Latin American Conference on Human\u2013Computer Interaction - Short Papers",
+            "acronym": "CLIHC - SP",
+            "year": 2026,
+            "formSubmission": 523,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Aracaju",
+                "state": "SE",
+                "country": "BRA",
+                "beginAt": "2026-05-07T02:59:00Z",
+                "endAt": "2026-05-09T02:59:00Z",
+                "makePublicAt": "2026-01-23T02:59:00Z"
+            },
+            "eventParent": 509,
+            "uri": "clihc-sp2026"
+        },
+        {
+            "id": 536,
+            "name": "CLIHC26 - Poster - 2026 - XII Latin American Conference on Human\u2013Computer Interaction - Poster",
+            "acronym": "CLIHC - Poster",
+            "year": 2026,
+            "formSubmission": 524,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Aracaju",
+                "state": "SE",
+                "country": "BRA",
+                "beginAt": "2026-05-07T02:59:00Z",
+                "endAt": "2026-05-09T02:59:00Z",
+                "makePublicAt": "2026-01-25T02:59:00Z"
+            },
+            "eventParent": 509,
+            "uri": "clihc-poster2026"
+        },
+        {
+            "id": 537,
+            "name": "CLIHC - W&T 2026 - CLIHC26 2026 - XII Latin American Conference on Human\u2013Computer Interaction - Workshops and Tutorials",
+            "acronym": "CLIHC - W&T",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Aracaju",
+                "state": "SE",
+                "country": "BRA",
+                "beginAt": "2026-05-07T02:59:00Z",
+                "endAt": "2026-05-09T02:59:00Z",
+                "makePublicAt": "2026-01-25T02:59:00Z"
+            },
+            "eventParent": 509,
+            "uri": "clihc-w&t2026"
+        },
+        {
+            "id": 538,
+            "name": "XII Latin American Conference on Human\u2013Computer Interaction - Student Design Competition",
+            "acronym": "CLIHC - SDC",
+            "year": 2026,
+            "formSubmission": 521,
+            "formReview": 522,
+            "eventInfo": {
+                "city": "Aracaju",
+                "state": "SE",
+                "country": "BRA",
+                "beginAt": "2026-05-07T02:59:00Z",
+                "endAt": "2026-05-09T02:59:00Z",
+                "makePublicAt": "2026-01-23T02:59:00Z"
+            },
+            "eventParent": 509,
+            "uri": "clihc-sdc2026"
+        },
+        {
+            "id": 539,
+            "name": "CLIHC - GC 2026 - CLIHC26 2026 - XII Latin American Conference on Human\u2013Computer Interaction - Graduate Colloquium",
+            "acronym": "CLIHC - GC",
+            "year": 2026,
+            "formSubmission": 526,
+            "formReview": 527,
+            "eventInfo": {
+                "city": "Aracaju",
+                "state": "SE",
+                "country": "BRA",
+                "beginAt": "2026-05-07T02:59:00Z",
+                "endAt": "2026-05-09T02:59:00Z",
+                "makePublicAt": "2026-01-25T02:59:00Z"
+            },
+            "eventParent": 509,
+            "uri": "clihc-gc2026"
+        },
+        {
+            "id": 540,
+            "name": "Simp\u00f3sio de Infraestrutura Digital/Nuvem para Pesquisa",
+            "acronym": "Pesquisa@Nuvem",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Gramado",
+                "state": "RS",
+                "country": "BRA",
+                "beginAt": "2026-07-20T02:59:00Z",
+                "endAt": "2026-07-24T02:59:00Z",
+                "makePublicAt": "2026-01-26T02:59:00Z"
+            },
+            "eventParent": 421,
+            "uri": "pesquisa-nuvem2026"
+        },
+        {
+            "id": 541,
+            "name": "XXV Simp\u00f3sio Brasileiro de Jogos e Entretenimento Digital",
+            "acronym": "SBGames",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Goi\u00e2nia",
+                "state": "GO",
+                "country": "BRA",
+                "beginAt": "2026-09-29T03:59:00Z",
+                "endAt": "2026-10-02T03:59:00Z",
+                "makePublicAt": "2026-02-17T03:59:00Z"
+            },
+            "eventParent": null,
+            "uri": "sbgames2026"
+        },
+        {
+            "id": 542,
+            "name": "Industry Track",
+            "acronym": "SBES-Industry",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Sao Paulo",
+                "state": "SP",
+                "country": "BRA",
+                "beginAt": "2026-09-09T02:59:00Z",
+                "endAt": "2026-09-13T02:59:00Z",
+                "makePublicAt": "2026-01-28T02:59:00.969000Z"
+            },
+            "eventParent": 450,
+            "uri": "sbes-industry2026"
+        },
+        {
+            "id": 543,
+            "name": "Concurso de Trabalhos de Inicia\u00e7\u00e3o Cient\u00edfica",
+            "acronym": "CTIC-ES",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "S\u00e3o Paulo",
+                "state": "SP",
+                "country": "BRA",
+                "beginAt": "2026-09-09T02:59:00Z",
+                "endAt": "2026-09-13T02:59:00Z",
+                "makePublicAt": "2026-01-30T02:59:00.538000Z"
+            },
+            "eventParent": 450,
+            "uri": "ctic-es2026"
+        },
+        {
+            "id": 545,
+            "name": "SBRC mais",
+            "acronym": "sbrcmais",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Mata de S\u00e3o Jo\u00e3o",
+                "state": "BA",
+                "country": "BRA",
+                "beginAt": "2026-05-26T02:59:00Z",
+                "endAt": "2026-05-30T02:59:00Z",
+                "makePublicAt": "2026-02-04T02:59:00Z"
+            },
+            "eventParent": 435,
+            "uri": "sbrcmais2026"
+        },
+        {
+            "id": 546,
+            "name": "XI Encontro de Teoria da Computa\u00e7\u00e3o",
+            "acronym": "ETC",
+            "year": 2026,
+            "formSubmission": 529,
+            "formReview": 528,
+            "eventInfo": {
+                "city": "Gramado",
+                "state": "RS",
+                "country": "BRA",
+                "beginAt": "2026-07-20T02:59:00Z",
+                "endAt": "2026-07-24T02:59:00Z",
+                "makePublicAt": "2026-02-03T02:59:00.368000Z"
+            },
+            "eventParent": 421,
+            "uri": "etc"
+        },
+        {
+            "id": 547,
+            "name": "Workshop de Trabalhos de Inicia\u00e7\u00e3o Cient\u00edfica e de Gradua\u00e7\u00e3o",
+            "acronym": "sbrc-wtg",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Mata de S\u00e3o Jo\u00e3o",
+                "state": "BA",
+                "country": "BRA",
+                "beginAt": "2026-05-26T02:59:00Z",
+                "endAt": "2026-05-30T02:59:00Z",
+                "makePublicAt": "2026-02-14T02:59:00Z"
+            },
+            "eventParent": 435,
+            "uri": "sbrc-wtg2026"
+        },
+        {
+            "id": 548,
+            "name": "Workshop on Experimental Research for the Future Internet",
+            "acronym": "wpeif",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Mata de S\u00e3o Jo\u00e3o",
+                "state": "BA",
+                "country": "BRA",
+                "beginAt": "2026-05-26T02:59:00Z",
+                "endAt": "2026-05-30T02:59:00Z",
+                "makePublicAt": "2026-02-14T02:59:00Z"
+            },
+            "eventParent": 435,
+            "uri": "wpeif2026"
+        },
+        {
+            "id": 549,
+            "name": "Workshop de Computa\u00e7\u00e3o Urbana",
+            "acronym": "CoUrb",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Mata de S\u00e3o Jo\u00e3o",
+                "state": "BA",
+                "country": "BRA",
+                "beginAt": "2026-05-26T02:59:00Z",
+                "endAt": "2026-05-30T02:59:00Z",
+                "makePublicAt": "2026-02-14T02:59:00Z"
+            },
+            "eventParent": 435,
+            "uri": "courb2026"
+        },
+        {
+            "id": 550,
+            "name": "Workshop Blockchain: Teoria, Tecnologia e Aplica\u00e7\u00f5es",
+            "acronym": "WBlockchain",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Mata de S\u00e3o Jo\u00e3o",
+                "state": "BA",
+                "country": "BRA",
+                "beginAt": "2026-05-26T02:59:00Z",
+                "endAt": "2026-05-30T02:59:00Z",
+                "makePublicAt": "2026-02-14T02:59:00Z"
+            },
+            "eventParent": 435,
+            "uri": "wblockchain2026"
+        },
+        {
+            "id": 551,
+            "name": "Workshop de Redes Qu\u00e2nticas",
+            "acronym": "WQuNets",
+            "year": 2026,
+            "formSubmission": 540,
+            "formReview": 539,
+            "eventInfo": {
+                "city": "Mata de S\u00e3o Jo\u00e3o",
+                "state": "BA",
+                "country": "BRA",
+                "beginAt": "2026-05-26T02:59:00Z",
+                "endAt": "2026-05-30T02:59:00Z",
+                "makePublicAt": "2026-02-14T02:59:00Z"
+            },
+            "eventParent": 435,
+            "uri": "wqunets2026"
+        },
+        {
+            "id": 552,
+            "name": "Workshop de Ger\u00eancia e Opera\u00e7\u00e3o de Redes e Servi\u00e7os",
+            "acronym": "WGRS",
+            "year": 2026,
+            "formSubmission": 543,
+            "formReview": 544,
+            "eventInfo": {
+                "city": "Mata de S\u00e3o Jo\u00e3o",
+                "state": "BA",
+                "country": "BRA",
+                "beginAt": "2026-05-26T02:59:00Z",
+                "endAt": "2026-05-30T02:59:00Z",
+                "makePublicAt": "2026-02-14T02:59:00Z"
+            },
+            "eventParent": 435,
+            "uri": "wgrs2026"
+        },
+        {
+            "id": 553,
+            "name": "Workshop de Intelig\u00eancia Artificial para Redes de Computadores",
+            "acronym": "WIARC",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 541,
+            "eventInfo": {
+                "city": "Mata de S\u00e3o Jo\u00e3o",
+                "state": "BA",
+                "country": "BRA",
+                "beginAt": "2026-05-26T02:59:00Z",
+                "endAt": "2026-05-30T02:59:00Z",
+                "makePublicAt": "2026-02-14T02:59:00Z"
+            },
+            "eventParent": 435,
+            "uri": "wiarc2026"
+        },
+        {
+            "id": 554,
+            "name": "Congresso Brasileiro de Inform\u00e1tica na Educa\u00e7\u00e3o",
+            "acronym": "CBIE",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Goi\u00e2nia",
+                "state": "GO",
+                "country": "BRA",
+                "beginAt": "2026-10-06T02:59:00Z",
+                "endAt": "2026-10-10T02:59:00Z",
+                "makePublicAt": "2026-02-10T02:59:00Z"
+            },
+            "eventParent": null,
+            "uri": "cbie2026"
+        },
+        {
+            "id": 555,
+            "name": "Workshops do CBIE",
+            "acronym": "WCBIE",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Goi\u00e2nia",
+                "state": "GO",
+                "country": "BRA",
+                "beginAt": "2026-10-06T02:59:00Z",
+                "endAt": "2026-10-10T02:59:00Z",
+                "makePublicAt": "2026-02-24T02:59:00Z"
+            },
+            "eventParent": 554,
+            "uri": "wcbie2026"
+        },
+        {
+            "id": 556,
+            "name": "XXXVII Simp\u00f3sio Brasileiro de Inform\u00e1tica na Educa\u00e7\u00e3o",
+            "acronym": "SBIE",
+            "year": 2026,
+            "formSubmission": 552,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Goi\u00e2nia",
+                "state": "GO",
+                "country": "BRA",
+                "beginAt": "2026-10-06T02:59:00Z",
+                "endAt": "2026-10-10T02:59:00Z",
+                "makePublicAt": "2026-02-24T02:59:00Z"
+            },
+            "eventParent": 554,
+            "uri": "sbie2026"
+        },
+        {
+            "id": 557,
+            "name": "XXXII Workshop de Inform\u00e1tica na Escola",
+            "acronym": "WIE",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Goi\u00e2nia",
+                "state": "GO",
+                "country": "BRA",
+                "beginAt": "2026-10-06T02:59:00Z",
+                "endAt": "2026-10-10T02:59:00Z",
+                "makePublicAt": "2026-02-24T02:59:00Z"
+            },
+            "eventParent": 554,
+            "uri": "wie2026"
+        },
+        {
+            "id": 558,
+            "name": "Jornada de Atualiza\u00e7\u00e3o em Inform\u00e1tica na Educa\u00e7\u00e3o",
+            "acronym": "JAIE",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Goi\u00e2nia",
+                "state": "GO",
+                "country": "BRA",
+                "beginAt": "2026-10-06T02:59:00Z",
+                "endAt": "2026-10-10T02:59:00Z",
+                "makePublicAt": "2026-02-24T02:59:00Z"
+            },
+            "eventParent": 554,
+            "uri": "jaie2026"
+        },
+        {
+            "id": 559,
+            "name": "Concurso Alexandre Direne de Teses, Disserta\u00e7\u00f5es e Trabalhos de Conclus\u00e3o de Curso em Inform\u00e1tica na Educa\u00e7\u00e3o",
+            "acronym": "CTD-IE",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Goi\u00e2nia",
+                "state": "GO",
+                "country": "BRA",
+                "beginAt": "2026-10-06T02:59:00Z",
+                "endAt": "2026-10-10T02:59:00Z",
+                "makePublicAt": "2026-03-03T02:59:00Z"
+            },
+            "eventParent": 554,
+            "uri": "ctd-ie2026"
+        },
+        {
+            "id": 560,
+            "name": "Concurso Apps.edu",
+            "acronym": "Apps.edu",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Goi\u00e2nia",
+                "state": "GO",
+                "country": "BRA",
+                "beginAt": "2026-10-06T02:59:00Z",
+                "endAt": "2026-10-10T02:59:00Z",
+                "makePublicAt": "2026-03-03T02:59:00Z"
+            },
+            "eventParent": 554,
+            "uri": "apps.edu2026"
+        },
+        {
+            "id": 561,
+            "name": "XXVI Simp\u00f3sio Brasileiro de Ciberseguran\u00e7a",
+            "acronym": "SBSeg",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Arma\u00e7\u00e3o dos B\u00fazios",
+                "state": "RJ",
+                "country": "BRA",
+                "beginAt": "2026-09-02T02:59:00Z",
+                "endAt": "2026-09-05T02:59:00Z",
+                "makePublicAt": "2026-03-04T02:59:00Z"
+            },
+            "eventParent": null,
+            "uri": "sbseg2026"
+        },
+        {
+            "id": 562,
+            "name": "VII Escola Regional de Alto Desempenho da Regi\u00e3o Nordeste",
+            "acronym": "ERAD/NE",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Recife",
+                "state": "Pernambuco",
+                "country": "BRA",
+                "beginAt": "2026-07-09T02:59:00Z",
+                "endAt": "2026-07-11T02:59:00Z",
+                "makePublicAt": "2026-02-11T02:59:00.628000Z"
+            },
+            "eventParent": null,
+            "uri": "erad/ne2026"
+        },
+        {
+            "id": 563,
+            "name": "17o Simp\u00f3sio em Tecnologia da Informa\u00e7\u00e3o e da Linguagem Humana (STIL)",
+            "acronym": "STIL",
+            "year": 2026,
+            "formSubmission": 559,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Cuiab\u00e1",
+                "state": "MT",
+                "country": "BRA",
+                "beginAt": "2026-10-20T02:59:00Z",
+                "endAt": "2026-10-23T02:59:00Z",
+                "makePublicAt": "2026-03-02T02:59:00Z"
+            },
+            "eventParent": 494,
+            "uri": "stil2026"
+        },
+        {
+            "id": 564,
+            "name": "Workshop-Escola de Sistemas de Agentes, seus Ambientes e Aplica\u00e7\u00f5es",
+            "acronym": "WESAAC",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 545,
+            "eventInfo": {
+                "city": "Cuiab\u00e1",
+                "state": "Mato Grosso",
+                "country": "BRA",
+                "beginAt": "2026-10-20T02:59:00Z",
+                "endAt": "2026-10-24T02:59:00Z",
+                "makePublicAt": "2026-03-02T02:59:00Z"
+            },
+            "eventParent": 494,
+            "uri": "wesaac2026"
+        },
+        {
+            "id": 565,
+            "name": "Observat\u00f3rio de IA da RNP",
+            "acronym": "Observat\u00f3rioIARNP",
+            "year": 2026,
+            "formSubmission": 555,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Rio de Janeiro",
+                "state": "RJ",
+                "country": "BRA",
+                "beginAt": "2026-02-14T02:59:00.303000Z",
+                "endAt": "2050-01-01T02:59:00Z",
+                "makePublicAt": "2026-02-14T02:59:00.411000Z"
+            },
+            "eventParent": null,
+            "uri": "observat\u00f3rioiarnp"
+        },
+        {
+            "id": 566,
+            "name": "Concurso de Teses e Disserta\u00e7\u00f5es em Intelig\u00eancia Artificial e Computacional",
+            "acronym": "CTDIAC",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Cuiab\u00e1",
+                "state": "MT",
+                "country": "BRA",
+                "beginAt": "2026-10-20T03:59:00Z",
+                "endAt": "2026-10-24T03:59:00Z",
+                "makePublicAt": "2026-03-02T03:59:00Z"
+            },
+            "eventParent": 494,
+            "uri": "ctdiac"
+        },
+        {
+            "id": 568,
+            "name": "KDMiLe 2026 (XIV Symposium on Knowledge Discovery, Mining and Learning)",
+            "acronym": "KDMiLe 2026",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Cuiab\u00e1",
+                "state": "MT",
+                "country": "BRA",
+                "beginAt": "2026-10-20T02:59:00Z",
+                "endAt": "2026-10-23T02:59:00Z",
+                "makePublicAt": "2026-03-02T02:59:00Z"
+            },
+            "eventParent": 494,
+            "uri": "kdmile2026"
+        },
+        {
+            "id": 569,
+            "name": "MAGICA",
+            "acronym": "SBGames",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 562,
+            "eventInfo": {
+                "city": "Goi\u00e2nia",
+                "state": "GO",
+                "country": "BRA",
+                "beginAt": "2026-09-30T02:59:00Z",
+                "endAt": "2026-10-03T02:59:00Z",
+                "makePublicAt": "2026-02-18T02:59:00Z"
+            },
+            "eventParent": 541,
+            "uri": "sbgames2026_magica"
+        },
+        {
+            "id": 579,
+            "name": "XVIII Congresso de Tecnologia da Informa\u00e7\u00e3o e Comunica\u00e7\u00e3o das Institui\u00e7\u00f5es Federais de Ensino Superior",
+            "acronym": "WTICIFES",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": 572,
+            "eventInfo": {
+                "city": "Garibaldi",
+                "state": "RS",
+                "country": "BRA",
+                "beginAt": "2026-08-05T02:59:00Z",
+                "endAt": "2026-08-07T02:59:00Z",
+                "makePublicAt": "2026-03-08T02:59:00Z"
+            },
+            "eventParent": null,
+            "uri": "wticifes2026"
+        },
+        {
+            "id": 580,
+            "name": "Workshop of Mining Digital and Social Signals for Public Health",
+            "acronym": "MiNDS@SBCAS",
+            "year": 2026,
+            "formSubmission": null,
+            "formReview": null,
+            "eventInfo": {
+                "city": "Ouro Preto",
+                "state": "MG",
+                "country": "BRA",
+                "beginAt": "2026-06-02T02:59:00Z",
+                "endAt": "2026-06-05T02:59:00Z",
+                "makePublicAt": "2026-03-05T02:59:00.512000Z"
+            },
+            "eventParent": 489,
+            "uri": "minds@sbcas2026"
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "errors.none",
+        "params": null
+    }
+}
