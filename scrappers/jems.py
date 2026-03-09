@@ -54,8 +54,12 @@ if __name__ == "__main__":
         print("Token loaded from jems_token.json")
         
     else:        
-        username = "marcio.inacio@ufms.br"
-        password = "much.tie.am"
+        username = os.getenv("JEMS_EMAIL")
+        password = os.getenv("JEMS_PASSWORD")
+        
+        if not username or not password:
+            print("Erro: As variáveis de ambiente JEMS_EMAIL e JEMS_PASSWORD precisam ser definidas.")
+            exit(1)
         
         json_data = login(username, password)
         json.dump(json_data, open("data/jems_token.json", "w"), indent=4)    
